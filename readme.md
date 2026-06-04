@@ -412,6 +412,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 ### Fonts
 
 - [FontForge](https://fontforge.org/en-US/) - Free and open source font editor. ![Open Source][oss]
+- [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
 
 ### FTP Clients
 
@@ -626,7 +627,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [iPulse](https://ipulseapp.com/) - Monitor numerous macOS statistics. ![Dollar][mon]
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Powerful utility for keyboard customization. ![Open Source][oss]
 - [Kinto](https://github.com/rbreaves/kinto) - Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
-
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product. ![Free][free]
 - [Mela](https://mela.recipes/) - A simple, elegant and modern recipe manager. ![Dollar][mon]
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog. ![Free][free]
@@ -635,10 +635,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. ![Open Source][oss]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
-- 
-- [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
-- 
-- [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
 - [SuperKey](https://superkey.app/) - Keyboard superpower on macOS. ![Dollar][mon]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
 - [Syntax Highlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - Quick Look extension for highlight source code files. ![Open Source][oss]
@@ -1186,7 +1182,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Author
 Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
-Additions by me @RFC1925
+Additions of Display, Mouse, & better sorting by me @RFC1925
 
 ### License
 Source is released under the MIT License (MIT) [license](license.md).
