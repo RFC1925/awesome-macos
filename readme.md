@@ -1168,7 +1168,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS. ![Dollar][mon]
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon. ![Open Source][oss]
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software. ![Open Source][oss]
-- [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Dollar][mon]
+- [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Free][free]
 
 ### Author
 Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
