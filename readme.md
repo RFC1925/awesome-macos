@@ -1184,7 +1184,6 @@ AV Recording
 - [PlayOnMac](https://www.playonmac.com/en/) - Wine wrapper for macOS.
 - [Tart](https://tart.run/) - Virtualization toolset to build, run and manage macOS and Linux virtual machines on Apple Silicon.
 - [UTM](https://mac.getutm.app) - QEMU frontend for macOS.
-- [Vagrant Manager](http://vagrantmanager.com) - Vagrant Manager for mcOS.
 - [Veertu](https://veertu.com/) - Native Virtualization For macOS.
 - [VirtualBuddy](https://github.com/insidegui/VirtualBuddy) - Virtualize macOS 12 and later on Apple Silicon.
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software.
