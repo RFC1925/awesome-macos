@@ -13,6 +13,7 @@ favorites and something that I recommend you check out.
 - [Audio / Visual Recording](#av) 
 - [Audio Utilities](#audio-utilities)
 - [Backups](#backups)
+- [Battery](#battery)
 - [Calendar](#calendar)
 - [Contacts](#contacts)
 - [Cleanup](#cleanup)
@@ -185,7 +186,15 @@ AV Recording
 - [Macrium Reflect](https://www.macrium.com/reflectfree) - Free back up, disk imaging, and cloning solution. 
 - [MSP360](https://www.msp360.com/) - Cloud & local backup ![Star][fav]
 - [Rclone](http://rclone.org/) - Sync files and directories to and from multiple services.  ![Star][fav]
-- [Syncalicious](https://github.com/zenangst/Syncalicious) - Backup and synchronize app settings. 
+- [Syncalicious](https://github.com/zenangst/Syncalicious) - Backup and synchronize app settings.
+
+### Battery
+- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS.
+- [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. 
+- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad.
+- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005.
+- [Endurance](https://enduranceapp.com/) - Boost you Mac's battery. 
+- [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook.
 
 ### Cleanup
 
@@ -562,7 +571,6 @@ AV Recording
 
 - [Aldente](https://github.com/davidwernhart/AlDente) - macOS tool to limit maximum charging percentage. 
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704?mt=12) - The most awesome keep-awake app ever created for macOS.
-- [Apple Juice](https://github.com/raphaelhanneken/apple-juice) - Advanced battery gauge for macOS. 
 - [Badgeify](https://badgeify.app) - Add App Icon & Notifications to Your macOS Menu Bar. 
 - [Bartender](https://www.macbartender.com/) - Take control of your menu bar. 
 - [BitBar](https://www.getbidbar.com/) - Run terminal commands from the menu bar. 
@@ -586,7 +594,6 @@ AV Recording
 - [Notch Pro](https://imadethis.app/notch-pro) - It draws a notch over your menubar. 
 - [OneSwitch](https://fireball.studio/oneswitch) - All your powerful switches in one place. 
 - [OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - All-in-One menu bar app, hide notch, dark mode, AirPods, Shortcuts. 
-- [PowerMeister](https://naden.co) - Conserve energy and improve Battery-Life on your MacBook. 
 - [Presentify](https://presentify.compzets.com/) - Annotate literally anything on screen. 
 - [Shifty](https://shifty.natethompson.io/en/) - A menu bar app that gives you more control over Night Shift. 
 - [Spaceman](https://github.com/Jaysce/Spaceman) - View Spaces and Virtual Desktops in the menu bar. 
@@ -975,22 +982,17 @@ AV Recording
 - [ABetterFinderRename](https://www.publicspace.net/ABetterFinderRename/) - Simple. Complete. Powerful. 
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS. 
 - [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS. 
-- [Apple-Juice](https://github.com/raphaelhanneken/apple-juice) - An advanced battery gauge for macOS. 
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM Switch Software. 
-- [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. 
-- [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad.  
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. 
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS. 
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. 
 - [Charmstone](https://charmstone.app/) - The quicker switcher launcher for macOS. 
 - [CheetSheet](https://www.mediaatelier.com/CheatSheet/) - Know your shortcuts. 
-- [CoconutBattery 3](https://www.coconut-flavour.com/coconutbattery/) - The standard for battery reading since 2005. 
 - [CommandQ](https://commandqapp.com/) - Never accidentally quit an app or window again. 
 - [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/#) - Keyboard-centric application and window switcher. 
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & 
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts. 
 - [Dat](https://datproject.org/) - Distributed data sharing tool. 
-- [Endurance](https://enduranceapp.com/) - Boost you Mac's battery. 
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. 
 - [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. 
 - [Flux](https://justgetflux.com/) - Adjusts the screen brightness according to the time of day. 
@@ -1116,7 +1118,8 @@ AV Recording
 - [Pulse](https://pulsebrowser.app/) - An experimental Firefox fork that enhances focus. 
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple. 
 - [Sidekick](https://www.meetsidekick.com/) - The fastest browser for work ever made. 
-- [Sizzy](https://sizzy.co/) - The browser for developers. 
+- [Sizzy](https://sizzy.co/) - The browser for developers.
+- [Tor](https://www.torproject.org/) - private browsing without tracking, surveillance, or censorship. 
 - [ungoogled-chromium](https://ungoogled-software.github.io/ungoogled-chromium-binaries/) - Chrome without the bad stuff. 
 - [Vivaldi](https://vivaldi.com/) - A Browser for Our Friends. 
 - [Waterfox](https://www.waterfox.net/) - Browse the web your way, with the indie web browser. 
