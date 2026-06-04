@@ -48,6 +48,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Menubar Applications](#menubar-applications)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
+- [Mouse](#mouse)
 - [Music Production](#music-production)
 - [Networking Applications](#networking-applications)
 - [Notes](#notes)
@@ -618,7 +619,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [iPulse](https://ipulseapp.com/) - Monitor numerous macOS statistics. ![Dollar][mon]
 - [Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Powerful utility for keyboard customization. ![Open Source][oss]
 - [Kinto](https://github.com/rbreaves/kinto) - Linux & Windows keyboard layout for macOS users. ![Open Source][oss]
-- [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
+
 - [Mactracker](https://mactracker.ca/) - Detailed information on every Apple product. ![Free][free]
 - [Mela](https://mela.recipes/) - A simple, elegant and modern recipe manager. ![Dollar][mon]
 - [Micro.blog](https://s3.amazonaws.com/micro.blog/mac/Micro.blog_1.9.zip) - The official macOS version of Micro.blog. ![Free][free]
@@ -629,7 +630,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
 - [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
-- [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
+- 
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
 - [SuperKey](https://superkey.app/) - Keyboard superpower on macOS. ![Dollar][mon]
 - [Swish](https://highlyopinionated.co/swish/) - The missing gesture layer for macOS. ![Dollar][mon]
@@ -640,6 +641,14 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Unite 4](https://www.bzgapps.com/unite512) - Turn any website into a deeply customizable app. ![Dollar][mon]
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 - [Yarr](https://github.com/nkanaev/yarr) - Yet another RSS reader. ![Open Source][oss]
+
+### Mouse
+- [AutoRaise](https://github.com/sbmpost/AutoRaise) -  Hover a window it will be raised to the front (with a delay of your choosing) and gets the focus.  ![Free][free] ![Star][fav]
+- [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon] 
+- [LinearMouse](https://linearmouse.org/) - For macOS mouse users. ![Open Source][oss]
+- [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS ![Free][free]
+- [Smooze Pro](https://smooze.co/) - Change the way you scroll! ![Dollar][mon]
+- [SteerMouse](https://plentycom.jp/en/steermouse/index.html) - a utility that lets you freely customize buttons, wheels and cursor speed ![Dollar][mon]
 
 ### Music Production
 
@@ -951,7 +960,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM Switch Software. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon] ![Star][fav]
-- [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon] ![Star][fav]
+
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS. ![Free][free]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
@@ -1172,6 +1181,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Author
 Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
+Additions by me @RFC1925
 
 ### License
 Source is released under the MIT License (MIT) [license](license.md).
