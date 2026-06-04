@@ -12,6 +12,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Anti-Virus](#anti-virus)
 - [Application Launchers](#application-launchers)
 - [Audio Players](#audio-players)
+- [Audio / Visual Recording](#av) 
 - [Audio Utilities](#audio-utilities)
 - [Backups](#backups)
 - [Calendar](#calendar)
@@ -49,6 +50,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Menubar Applications](#menubar-applications)
 - [Messenger Applications](#messenger-applications)
 - [Miscellaneous](#miscellaneous)
+- [Mobile](#mobile)
 - [Mouse](#mouse)
 - [Music Production](#music-production)
 - [Networking Applications](#networking-applications)
@@ -136,15 +138,20 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System. ![Free][free]
 - [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. ![Open Source][oss]
 - [Swinsian](https://swinsian.com/) - The Advanced Music Player for Mac. ![Dollar][mon]
-- [Tidal](https://offer.tidal.com/download) - Music streaming service. ![Free][free]
 - [Tiny Player](http://www.catnapgames.com/tiny-player-for-mac/) - Tiny FLAC/AAC/MP3/WAV Player. ![Free][free]
 - [Vox](https://vox.rocks/) - Vox Music Player for macOS. ![Free][free]
 - [Winds](https://getstream.io/winds/) - A Beautiful Open Source RSS & Podcast App. ![Open Source][oss]
 
+### AV
+- [Apple Logic Pro X](https://www.apple.com/logic-pro/) - Complete professional recording studio on the Mac. ![Dollar][mon]
+- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
+- [BerryCast](https://www.berrycast.com/) - A screen recording app. ![Dollar][mon]
+- [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
+- [Iris](https://staticz.com/iris/) Screen recording with audio 
+
 ### Audio Utilities
 
 - [AirFoil](https://rogueamoeba.com/airfoil/) - Hear Your Audio Everywhere. ![Dollar][mon]
-- [Audio Hijack](https://rogueamoeba.com/audiohijack/) - Record any audio. ![Dollar][mon]
 - [Background Music](https://github.com/kyleneideck/BackgroundMusic) - macOS Audio Utility. ![Open Source][oss] 
 - [Balance Lock](https://www.tunabellysoftware.com/balance_lock/) - Prevents audio balance from drifting left or right. ![Free][free]
 - [BlackHole](https://existential.audio/blackhole/) - Route Audio Between Apps. ![Open Source][oss]
@@ -156,10 +163,8 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Krisp](https://krisp.ai/) - Sound Clear in Online Meetings. ![Dollar][mon]
 - [Loopback](https://rogueamoeba.com/loopback/) - Cable-free audio routing for Mac. ![Dollar][mon]
 - [Metadatics](http://www.markvapps.com/metadatics) - Audio metadata editor. ![Dollar][mon]
-- [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. ![Open Source][oss]
 - [Mutify](https://mutify.app/) - Quickly mute your microphone. ![Dollar][mon]
 - [ocenaudio](https://www.ocenaudio.com/en) - Easy, fast and powerful audio editor. ![Free][free]
-- [Piezo](https://rogueamoeba.com/piezo/) - Charmingly simple audio recording. ![Dollar][mon]
 - [Roon](https://roonlabs.com/) - The Ultimate Music Player for Music Fanatics. ![Dollar][mon]
 - [Samplr for Touchbar](http://samplr.net/touchbar/) - Demo of Samplr for the MacBook Touch Bar. ![Free][free]
 - [ShazamScrobbler](https://github.com/ShazamScrobbler/shazamscrobbler-macos) - Last.fm scrobbler for the Shazam Mac app. ![Open Source][oss]
@@ -613,7 +618,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Actual](https://actualbudget.com/) - Enjoy managing your finances. ![Dollar][mon]
 - [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator. ![Open Source][oss]
 - [AirParrot](https://www.airsquirrels.com/airparrot/) - Streaming and Mirroring for macOS. ![Dollar][mon]
-- [BerryCast](https://www.berrycast.com/) - A screen recording app. ![Dollar][mon]
 - [Calcbot](https://tapbots.com/calcbot/mac/) - An Intelligent Calculator and Unit Converter. ![Dollar][mon]
 - [CodeCows](https://zeezide.de/en/products/codecows/) - Inject hundreds of ASCII Cows in any app. ![Free][free]
 - [Console](https://github.com/macmade/Console) - Replacement macOS console application. ![Open Source][oss]
@@ -645,6 +649,9 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Wintertime](https://github.com/actuallymentor/wintertime-mac-background-freezer) - Background App Freezer for macOS. ![Open Source][oss]
 - [Yarr](https://github.com/nkanaev/yarr) - Yet another RSS reader. ![Open Source][oss]
 
+### Mobile
+- [Vysor](https://www.vysor.io/) - Mirror and Control iOS/Android 
+
 ### Mouse
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) -  Hover a window it will be raised to the front (with a delay of your choosing) and gets the focus.  ![Free][free] ![Star][fav]
 - [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse? ![Dollar][mon] 
@@ -656,7 +663,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 ### Music Production
 
 - [Ableton Live](https://www.ableton.com/) - Digital Audio Workstation. ![Free][free] ![Dollar][mon]
-- [Apple Logic Pro X](https://www.apple.com/logic-pro/) - Complete professional recording studio on the Mac. ![Dollar][mon]
 - [Cubase](https://new.steinberg.net/cubase/) - Create. Produce. Mix. Repeat. ![Dollar][mon]
 - [Dexed](https://github.com/asb2m10/dexed) - DX7 FM multi plaform/multi format plugin. ![Open Source][oss]
 - [FL Studio](https://www.image-line.com/flstudio/) - Digital Audio Workstation. ![Dollar][mon]
@@ -680,6 +686,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Murus](http://www.murusfirewall.com/) - A GUI for the MacOS PF firewall. ![Free][free] & ![Dollar][mon]
 - [NetSpot](https://www.netspotapp.com/) - Wireless survey tool. ![Free][free]
 - [Network Radar](https://witt-software.com/networkradar/) - Scan and monitor your network. ![Dollar][mon]
+- [Open Visual Traceroute](https://visualtraceroute.net/) - visual networking tool ![Open Source][oss]
 - [Rambox](https://rambox.app/) - Workspace simplifier. ![Dollar][mon]
 - [Shuttle](http://fitztrev.github.io/shuttle/) - A simple SSH shortcut menu for macOS. ![Open Source][oss]
 - [SiteSucker](https://ricks-apps.com/osx/sitesucker/index.html) - Automatically downloads websites from the Internet. ![Free][free]
@@ -856,6 +863,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [remote-desktop-manager](https://remotedesktopmanager.com/) - Remote Connections & Passwords. Everywhere! ![Dollar][mon]
 - [Remotix](https://nulana.com/remotix-mac/) - Access all your computers from anywhere. ![Dollar][mon]
 - [Royal TX](https://www.royalapps.com/ts/mac/features) - Comprehensive Remote Management Solution. ![Dollar][mon]
+- [Splashtop](https://www.splashtop.com/) - Remote Access, like autocad & SOS support ![Dollar][mon]
 - [Screens](https://edovia.com/en/screens-mac/) - Control any computer from your Mac. ![Dollar][mon]
 - [TeamViewer](https://www.teamviewer.com/en-us/) - The Solution for Remote Control and Access. ![Free][free]
 
