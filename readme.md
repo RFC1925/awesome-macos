@@ -3,7 +3,7 @@
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by
-[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Created by [Patrick H. Mullins](https://github.com/phmullins). Additions of AV Recorders, Display, Mobile, Mouse by [RFC1925](https://github.com/RFC1925) Legend: App with a yellow star (![Star][fav]) is one of my favorites and something that I recommend you check out.
+[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Created by [Patrick H. Mullins](https://github.com/phmullins). Additions of AV Recorders, Display, Mobile, Mouse by [RFC1925](https://github.com/RFC1925) (![Star][fav]) is one of my favorite apps.
 
 - [Academics](#academics)
 - [Anti-Virus](#anti-virus)
