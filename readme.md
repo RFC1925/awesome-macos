@@ -26,6 +26,7 @@ so starting with v1.9.4, all versions will be named after sci-fi robots, android
 - [Databases](#databases)
 - [Design](#design)
 - [DevOps](#devops)
+- [Displays](#displays)
 - [Disk Utilities](#disk-utilities)
 - [Documents](#documents)
 - [Encryption](#encryption)
@@ -325,6 +326,13 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Kui](https://github.com/kubernetes-sigs/kui) - Hybrid command-line/UI development experience for cloud. ![Open Source][oss]
 - [Leapp](https://www.leapp.cloud/) - Manage your Cloud credentials locally. ![Open Source][oss]
 
+### Displays
+- [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
+- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. ![Free][free] & ![Dollar][mon]
+- [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
+- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Controls your external display brightness and volume and shows native OSD ![Open Source][oss]
+- [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
+
 ### Disk Utilities
 
 - [DiskWave](https://diskwave.barthe.ph/) - Determine what files & folders are using your disk space. ![Open Source][oss]
@@ -549,7 +557,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Bunch](https://bunchapp.co/) - Your new favorite macOS automation tool. ![Free][free]
 - [cpuinfo](https://github.com/yusukeshib/cpuinfo) - cpumeter menubar app for mac. ![Open Source][oss]
 - [De-Notch-ifier](https://www.publicspace.net/Denotchifier/index.html) - ![Dollar][mon]
-- [Displays](https://www.jibapps.com/apps/displays/) - Manage your monitors and more. ![Dollar][mon]
 - [Dropzone](https://aptonic.com/) - Simplifies file sharing, launching apps, and many other tasks. ![Dollar][mon]
 - [Forehead](https://goodsnooze.gumroad.com/l/nASbe) - Hide the notch and round the corners. Free &  ![Dollar][mon]
 - [FuzzyClock](https://github.com/m-schmidt/FuzzyClock) - Displays the time in your menubar. ![Open Source][oss]
@@ -628,7 +635,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [PiBakery](https://www.pibakery.org/) - The easiest way to setup a Raspberry Pi. ![Free][free]
 - [QLMarkdown](https://github.com/sbarex/QLMarkdown) - Quick Look extension for Markdown files. ![Open Source][oss]
 - [Reeder 5](https://reeder.app/) - The best news reader for macOS. ![Dollar][mon]
-- [ResXtreme](http://resxtreme.com/) - Provides access to all display modes. ![Dollar][mon]
+- 
 - [RightFont 5](https://rightfontapp.com/) - Professional font manager app for Mac. ![Dollar][mon]
 - 
 - [Sugarmate](https://sugarmate.io/) - A new way to manage your diabetes. ![Free][free]
@@ -960,7 +967,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM Switch Software. ![Open Source][oss]
 - [Batteries for Mac](https://www.fadel.io/batteries) - Track all your devices' batteries from your Mac. ![Dollar][mon]
 - [Battery Health 3](https://fiplab.com/apps/battery-health-3-for-mac) - Detailed battery information for your MacBook, iPhone & iPad. ![Dollar][mon] ![Star][fav]
-
 - [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac. ![Dollar][mon]
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS. ![Free][free]
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks. ![Open Source][oss]
@@ -972,7 +978,6 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Core Shell](https://coreshell.app/) - A terminal to make your SSH life easy. Free & ![Dollar][mon]
 - [CustomShortcuts](https://www.houdah.com/customShortcuts/) - Customize Mac Menu Keyboard Shortcuts. ![Free][free]
 - [Dat](https://datproject.org/) - Distributed data sharing tool. ![Open Source][oss]
-- [Duet](https://www.duetdisplay.com/) - Extend your desktop to iOS. ![Free][free] & ![Dollar][mon]
 - [Endurance](https://enduranceapp.com/) - Boost you Mac's battery. ![Dollar][mon]
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder. ![Open Source][oss]
 - [Flour](https://fluorapp.net/) - Change the keyboard's fn keys. ![Free][free]
@@ -985,7 +990,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 - [Keysmith](https://www.keysmith.app/) - Create custom keyboard shortcuts for anything. ![Dollar][mon]
 - [LaunchRocket](https://github.com/jimbojsb/launchrocket) - PrefPane to manage all your Homebrew-installed services. ![Open Source][oss]
 - [Luminescent](https://naden.co) - Bring back Keyboard Backlight shortcuts for the MacBook. ![Dollar][mon]
-- [Lunar](https://lunar.fyi/) - Intelligent adaptive brightness for your external display. ![Open Source][oss]
+
 - [Maccy](https://maccy.app/) - Clipboard manager for macOS. ![Free][free]
 - [MacUpdater](https://www.corecode.io/macupdater/) - Keep all your apps up-to-date effortlessly. ![Dollar][mon] ![Star][fav]
 - [Manila](https://github.com/neilsardesai/Manila) - A Finder extension for changing folder colors. ![Open Source][oss]
