@@ -133,7 +133,6 @@ Audio and Music players
 - [Mous](https://github.com/bsdelf/mous) - Powerful audio player & converter for FreeBSD/Linux/macOS. 
 - [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player. 
 - [Nulloy](https://nulloy.com/) - OSS Audiophile audio player. 
-- [Phonix](https://phonix.nl.eu.org/) - Free music player for macOS. 
 - [SIDPLAY](http://www.sidmusic.org/sidplay/mac/) - A Commodore 64 music player. 
 - [Sonos](https://www.sonos.com) - Wireless Home Sound System. 
 - [Soundcleod](https://soundcleod.com/) - SoundCloud for macOS. 
@@ -209,9 +208,7 @@ AV Recording
 
 ### Clipboard Managers
 
-- [Copied](https://copied.app/) - Clipboard manager for macOS, iOS and iPadOS. 
 - [Maccy](https://maccy.app/) - Keep your copy history at hand. Period. 
-- [Yippy](https://yippy.mattdavo.com/) - An open source clipboard manager for macOS. 
 
 ### Cloud Storage
 
@@ -301,7 +298,6 @@ AV Recording
 - [Arctype](https://arctype.com/) - The SQL client and database management tool that's fun to use.  and 
 - [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio) - SQL client based on Visual Studio Code. 
 - [Base](https://menial.co.uk/base/) - SQLite 3 database editor. 
-- [Bdash](https://www.bdash.io/) - Simple SQL Client for lightweight data analysis. 
 - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Open Source SQL Editor and Database Manager. 
 - [DBeaver](http://dbeaver.jkiss.org/) - Free Universal SQL Client. 
 - [DB Browser for SQLite](https://github.com/sqlitebrowser/sqlitebrowser) - SQLite Database Browser.  
@@ -386,7 +382,6 @@ AV Recording
 - [Calibre](http://calibre-ebook.com/) - Complete e-book library management system. 
 - [Clearview](http://www.clearview-reader.com/clearview/) - Tabbed style e-book reader for PDF, EPUB (DRM free), CHM, and MOBI. 
 - [comictagger](https://github.com/comictagger/comictagger) - A multi-platform app for writing metadata to digital comics. 
-- [Delicious Library 3](https://www.delicious-monster.com/) - Book Manager. 
 - [Kavita](https://www.kavitareader.com/) - Self-hosted digital library. 
 - [Kindle](https://www.amazon.com/kindle-dbs/fd/kcp) - Read Kindle books on your Mac. 
 - [Kitabu](https://www.kitabu.me/) - Kitabu is your EPUB reading application and cloud library. 
@@ -618,7 +613,6 @@ AV Recording
 - [Gitter](https://gitter.im/) - A chat and networking platform. 
 - [Keybase Chat](https://keybase.io/download) - Crypto chat for everyone. 
 - [Patchwork](https://github.com/ssbc/patchwork) - Decentralized messaging app built on top of Secure Scuttlebutt (SSB). 
-- [Pony](https://www.ponymessenger.com/) - Pony is a messenger that delivers once a day. 
 - [Rambox](https://rambox.app/) - he only way to organize your workspace and boost your productivity. 
 - [Ripcord](https://cancel.fm/ripcord/) - Desktop chat client for Slack (and Discord). 
 - [Signal](https://www.signal.org/) - Fast, simple, secure. 
@@ -692,7 +686,6 @@ AV Recording
 - [Airtool](https://www.intuitibits.com/products/airtool/) - Capture Wi-Fi traffic Like a Pro. 
 - [Angry IP Scanner](https://angryip.org/) - Cross-platform network scanner. 
 - [Caddy](https://caddyserver.com/) - The HTTP/2 web server with automatic HTTPS. 
-- [Core Tunnel](https://coretunnel.app/) - Tunnel management made easy. 
 - [DNSCrypt](https://github.com/alterstep/dnscrypt-osxclient) - Control the DNSCrypt Proxy. 
 - [Fenix](https://fenixwebserver.com/) - Simple static desktop web server. 
 - [Gophie](https://gophie.org/) - Cross-platform Gopher browser. 
@@ -774,7 +767,7 @@ AV Recording
 
 ### Password Management
 
-- [1Password](https://agilebits.com/onepassword) - Best Password Manager out there!  
+- [1Password](1password.com) - Best Password Manager out there!  
 - [Avast](https://www.avast.com/passwords-mac) - Avast Passwords for Mac. 
 - [Bitwarden](https://bitwarden.com/) - Solve your password management problems. 
 - [Buttercup](https://buttercup.pw) - The Password Manager You Deserve. 
@@ -817,7 +810,6 @@ AV Recording
 - [Go](https://golang.org/) - An open source programming language from Google. 
 - [Janet Language](https://janet-lang.org/) - A functional and imperative programming language. 
 - [Kotlin](http://kotlinlang.org/) - Concise, simple and very easy to read (and write). 
-- [newLISP](http://www.newlisp.org/) - Lisp-like, general-purpose scripting language. 
 - [Python](https://www.python.org/) - Work quickly and integrate systems more effectively. 
 - [Ruby](https://www.ruby-lang.org/en/) - A dynamic, open source programming language. 
 - [Rust](https://www.rust-lang.org/) - A language empowering everyone. 
@@ -1015,7 +1007,6 @@ AV Recording
 - [OpeninTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Open the current directory in Terminal. 
 - [Pastebox](https://tapbots.com/pastebot/) - Command Copy & Paste. 
 - [PlugNPlayMac](https://github.com/Piero24/PlugNPlayMac) - A script to automate tasks when connect a device to your Mac. 
-- [Pock](http://pock.pigigaldi.com/) - Display macOS Dock in Touch Bar. 
 - [PrefsEditor](https://apps.tempel.org/PrefsEditor/) - A GUI for the 'defaults' command. 
 - [Rocket](https://matthewpalmer.net/rocket/) - Mind-blowing emoji on your Mac. 
 - [Service Station](https://servicestation.menu/) - Customize your Right-Click Menu.  
@@ -1050,7 +1041,7 @@ AV Recording
 - [Things](https://culturedcode.com/things/) - Award-winning personal task manager. 
 - [TodoTxtMac](http://mjdescy.github.io/TodoTxtMac/) - Minimalist, keyboard-driven to-do manager for macOS.  
 - [Tracktiq](http://www.tracktiq.com/) - Easy time tracking. 
-- [Trello](http://labs.pierreorsander.com/trelloapp/) - A simple Trello client. 
+
 
 ### Terminals
 
@@ -1115,7 +1106,6 @@ AV Recording
 - [LibreWolf](https://librewolf-community.gitlab.io/) - A fork of Firefox, focused on privacy, security and freedom. 
 - [Microsoft Edge](https://www.microsoftedgeinsider.com/en-us/) - Chromium-based version of Microsoft Edge (Beta). 
 - [Opera](http://www.opera.com/) - Fast, secure, easy-to-use browser. 
-- [Pulse](https://pulsebrowser.app/) - An experimental Firefox fork that enhances focus. 
 - [Safari Technology Preview](https://developer.apple.com/safari/) - The newest browser tech from Apple. 
 - [Sidekick](https://www.meetsidekick.com/) - The fastest browser for work ever made. 
 - [Sizzy](https://sizzy.co/) - The browser for developers.
@@ -1137,7 +1127,6 @@ AV Recording
 - [LayAuto 3](https://layautoapp.com/) - Your next favorite window manager. 
 - [Magnet](http://magnet.crowdcafe.com) - Window manager for MacOS. 
 - [Moom](https://manytricks.com/moom/) - Move and zoom windows. 
-- [Mosaic](https://mosaic.rcopstein.com/) - 
 - [Penc](https://deniz.co/penc/) - Trackpad-oriented window manager for macOS. 
 - [Phoenix](https://github.com/kasper/phoenix/) - A lightweight window and app manager scriptable with JavaScript. 
 - [Rectangle](https://rectangleapp.com/) - Move and resize windows in macOS.  
