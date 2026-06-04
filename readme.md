@@ -1189,7 +1189,7 @@ Audio and Music players, Trackers, Digital Audio Workstation software.
 
 ### Author
 Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
-Additions of Display, Mouse, & better sorting by me @RFC1925
+Additions of Display, Mouse, & better sorting by [RFC1925](https://github.com/RFC1925)
 
 ### License
 Source is released under the MIT License (MIT) [license](license.md).
