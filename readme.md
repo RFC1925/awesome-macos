@@ -662,6 +662,7 @@ AV Recording
 ### Mouse
 - [AutoRaise](https://github.com/sbmpost/AutoRaise) -  Hover a window it will be raised to the front (with a delay of your choosing) and gets the focus. ![Star][fav]
 - [Bettermouse](https://better-mouse.com/) - Who needs Logitech Options when you have Bettermouse?
+- [BetterTouchTool](https://folivora.ai/) - Customize Trackpad behavior
 - [LinearMouse](https://linearmouse.org/) - For macOS mouse users.
 - [SaneSideButtons](https://janhuelsmann.com/sanesidebuttons) - Tool that makes normal mouses with back/forward buttons usable on Mac OS
 - [Smooze Pro](https://smooze.co/) - Change the way you scroll! ![Star][fav]
@@ -974,7 +975,6 @@ AV Recording
 - [ActiveDock](https://noteifyapp.com/activedock/) - Customizable dock for macOS.
 - [Alt-Tab](https://alt-tab-macos.netlify.app/) - Windows alt-tab on macOS.
 - [Barrier](https://github.com/debauchee/barrier) - Open-source KVM Switch Software.
-- [BetterTouchTool](https://folivora.ai/) - Customize input devices on your Mac.
 - [Burn](https://sourceforge.net/projects/burn-osx/) - Simple but advanced disc burning for macOS.
 - [Cerebro](https://cerebroapp.com/) - Search everything on your machine in few clicks.
 - [Charmstone](https://charmstone.app/) - The quicker switcher launcher for macOS.
