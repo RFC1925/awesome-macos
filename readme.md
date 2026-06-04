@@ -3,8 +3,7 @@
 <img width="100" height="100" alt="icon_macos_02" src="assets/icon_macos_02.png">
 
 A curated list of fantastically awesome software for Apple's macOS operating system. This list was inspired by
-[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Legend: App with a yellow star (![Star][fav]) is one of my
-favorites and something that I recommend you check out.
+[Awesome Sysadmin](https://github.com/kahun/awesome-sysadmin). Created by [Patrick H. Mullins](https://github.com/phmullins). Additions of AV Recorders, Display, Mobile, Mouse by [RFC1925](https://github.com/RFC1925) Legend: App with a yellow star (![Star][fav]) is one of my favorites and something that I recommend you check out.
 
 - [Academics](#academics)
 - [Anti-Virus](#anti-virus)
@@ -1189,10 +1188,6 @@ AV Recording
 - [VirtualBox](https://www.virtualbox.org/) - x86 virtualization software.
 - [VMware Fusion](http://www.vmware.com/products/fusion/) - Run Windows and Linux on your Mac. ![Star][fav]
 
-### Author
-- Created by Patrick H. Mullins. You can find me on [Mastodon](https://mastodon.social/@pmullins).
-### Edits
-- Additions of AV Recorders, Display, Mobile, Mouse by [RFC1925](https://github.com/RFC1925)
 
 ### License
 Source is released under the MIT License (MIT) [license](license.md).
