@@ -536,7 +536,7 @@ Audio and Music players
 - [Netron](https://netron.app/) - Visualizer for neural network, deep learning, and machine learning models. ![Open Source][oss]
 
 ### Maps
--[Google Earth Pro](https://www.google.com/earth/about/versions/#earth-pro) - Satellite images with advanced feature needs. ![Free][free] ![Star][fav]
+- [Google Earth Pro](https://www.google.com/earth/about/versions/#earth-pro) - Satellite images with advanced feature needs. ![Free][free] ![Star][fav]
 
 ### Markdown Editors
 
