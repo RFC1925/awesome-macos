@@ -77,6 +77,7 @@ A curated list of fantastically awesome software for Apple's macOS operating sys
 - [Web Browsers](#web-browsers)
 - [Windows Managers](#windows-managers)
 - [Writing Apps](#writing)
+- [Video Players](#Video-Players)
 - [Video Utilities](#video-utilities)
 - [Virtualization](#virtualization)
 
@@ -1160,14 +1161,17 @@ AV Recording
 - [Taskade](https://apps.apple.com/us/app/taskade-manage-anything/id1490048917) - Free writing tool for outlining notes, managing tasks, and getting things done together in realtime.
 - [ConniePad](https://conniepad.com/) - Comprehensive rich formatting personal note app for Jira & Confluence users.
 
+### Video Players
+- [IINA](https://github.com/iina/iina) - The modern video player for macOS.
+- [MPlayer](https://mplayerhq.hu) - A cross-platform movie player.
+- [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
+- [VLC](https://www.videolan.org/) - a free and open source cross-platform multimedia player and framework
+
 ### Video Utilities
 
 - [HandBrake](https://handbrake.fr/) - The open source video transcoder.
-- [IINA](https://lhc70000.github.io/iina/) - The modern video player for macOS.
 - [FreeTube](https://freetubeapp.io/) - The Private YouTube Client.
 - [MakeMKV](https://www.makemkv.com/) - Rip DVD and Blu-ray discs.
-- [MPlayer](https://mplayerhq.hu) - A cross-platform movie player.
-- [mpv](https://mpv.io/) - A free, open source, and cross-platform media player.
 - [Natron](https://natrongithub.github.io/) - Open Source Compositing Software for VFX and Motion Graphics.
 - [No More Black Bars](https://arthursmithdev.gumroad.com/l/NoMoreBlackBars) - Safari extension that provides a true fullscreen experience by removing black bars from videos.
 - [Yoda](http://whoisandy.github.io/yoda/) - Browse and download YouTube videos.
