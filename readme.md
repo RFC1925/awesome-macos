@@ -74,7 +74,7 @@ A curated list of fantastically awesome software for Apple's macOS operating sys
 - [Terminals](#terminals)
 - [Text Editors](#text-editors)
 - [Text Expanders](#text-expanders)
-- [Web Browsers](#web-browsers)
+- [WWW Browsers](#www-browsers)
 - [Windows Managers](#windows-managers)
 - [Writing Apps](#writing)
 - [Video Players](#Video-Players)
@@ -1087,7 +1087,7 @@ AV Recording
 - [TeaCode](https://www.apptorium.com/teacode) - Don't Repeat Yourself.
 - [TextExpander](https://textexpander.com) - Expand keystrokes into frequently-used text and pictures.
 
-### Web Browsers
+### WWWW Browsers
 
 - [Arc](https://arc.net/) - New browser from [The Browser Company](https://thebrowser.company/).
 - [Avast Secure Browser](https://www.avast.com/secure-browser#mac) - The private browser that's up to 4x faster.
@@ -1115,6 +1115,7 @@ AV Recording
 - [Waterfox](https://www.waterfox.net/) - Browse the web your way, with the indie web browser.
 - [WebKit](https://webkit.org/) - A fast, open source web browser engine.
 - [Yandex Browser](https://browser.yandex.com/) - Blink web browser engine and is based on the Chromium open source project. ![Star][fav]
+- [Zen](https://zen-browser.app/download/) - free, open-source web browser based on Firefox that is designed with a modern, highly customizable interface focused on privacy and productivity.
 
 ### Windows Managers
 
